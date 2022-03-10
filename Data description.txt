@@ -1,0 +1,1 @@
+Test K-Means Algorithm on this easy dataset with 4 features: 1. sepal length in cm 2. sepal width in cm 3. petal length in cm 4. petal width in cm and 150 instances.
